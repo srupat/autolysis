@@ -1,0 +1,9 @@
+chardet
+matplotlib
+numpy
+google-generativeai
+pandas
+python-dotenv
+requests
+scikit-learn
+seaborn
